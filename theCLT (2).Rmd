@@ -33,7 +33,7 @@ densityplot(x.avg,main="sample size 2")
 
 Describe the resulting plot -  is it unimodal?  How many peaks does it have?  Are all the peaks the same size? 
 
- 
+It appears to me that............
 
 Do this again for 4 random samples
 
