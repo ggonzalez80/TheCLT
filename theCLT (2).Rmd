@@ -58,7 +58,7 @@ print(sd(x.avg))
 
 It is not unimodal because of multiple peaks and it has 3 peaks. Every peak are different sizes. 
 
-The standard deviation is 20.8 and the new mean is 50.9
+The standard deviation is 21.2 and the new mean is 51
 
 Then again for 9 random samples
 
@@ -74,7 +74,7 @@ print(sd(x.avg))
 
 It is not unimodal because of multiple peaks and it has 2 peaks. The 2 peaks are different sizes. 
 
-The standard deviation is 14 and the new mean is 49.1
+The standard deviation is 13.6 and the new mean is 49.6
 
 then 16 random samples
 
@@ -90,7 +90,7 @@ print(sd(x.avg))
 
 It is unimodal because of the single peak and it has one peak. The peak is one size, so yes they are all the same size.
 
-The standard deviation is 10.3 and the new mean is 50.4
+The standard deviation is 10.4 and the new mean is 50.5
 
 finally for 36 random samples.
 
@@ -106,7 +106,7 @@ print(sd(x.avg))
 
 It is unimodal because of the single peak and it has one peak. The peak is one size, so yes they are all the same size.
 
-The standard deviation is 6.8 and the new mean is 50.
+The standard deviation is 7 and the new mean is 50.2
 
 Write a summary paragraph describing what you observed and how it relates to the central limit theorem.
 
